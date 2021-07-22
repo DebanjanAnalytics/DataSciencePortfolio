@@ -1,2 +1,4 @@
 # DataSciencePortfolio
-Data Science Related Projects
+1. Natural Language Processing:
+  a. Tokenizer, Stemming and Lemmatization
+  
