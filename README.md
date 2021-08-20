@@ -8,4 +8,4 @@ Iris Dataset : https://github.com/DebanjanAnalytics/DataSciencePortfolio/tree/ma
 K-Means Clustering (incl. The Elbow & Inertia methods) on Iris Dataset : https://github.com/DebanjanAnalytics/DataSciencePortfolio/tree/main/Clustering_IrisFlowers
 
 ## Natural Language Processing
-Tokenizer, Stemming and Lemmatization - https://github.com/DebanjanAnalytics/DataSciencePortfolio/blob/main/steming_lemmatization.py
+Tokenizer, Stemming and Lemmatization : https://github.com/DebanjanAnalytics/DataSciencePortfolio/blob/main/steming_lemmatization.py
